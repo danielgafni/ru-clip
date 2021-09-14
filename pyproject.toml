@@ -12,6 +12,7 @@ ftfy = "^6.0.3"
 regex = "^2021.8.28"
 pymorphy2 = "^0.9.1"
 transformers = "^4.10.2"
+scikit-image = "^0.18.3"
 
 [tool.poetry.dev-dependencies]
 
