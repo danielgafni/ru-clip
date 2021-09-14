@@ -20,6 +20,11 @@ We use ViT-B/32 Image Encoder and RuGPT3Small Text Encoder.
 ## Usage
 See [here](examples/Interacting_with_CLIP_ViT_B_32.ipynb), [![here](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sberbank-ai/ru-clip/blob/main/examples/Interacting_with_CLIP_ViT_B_32.ipynb).
 
+For local usage:
+
+1. Install [Rust](https://www.rust-lang.org/tools/install)
+2. `cd` into project root and run `pip install .` or `poetry install`
+
 ## How it works
 Habr post coming soon 
 
